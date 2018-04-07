@@ -1,0 +1,48 @@
+Notation to code
+Every :synth
+Synth choice
+tick & look
+using fx
+Every FX
+Raspberry Pi
+Generative melodies / harmonies / rhythms
+External synths
+Arpeggios
+Fade in
+LFOs
+Riffs
+How to use rings
+Swing
+Timestate
+Sound Effects
+Hardware interaction
+OSC interaction
+Samples
+randomisation
+sync multiple computers
+Comparison to other environments
+
+
+
+General Topics:
+    Interface
+        Visualisation
+        Audio_in / live_audio
+    MIDI
+        Auto-Detect MIDI-CC
+        Trigger synths with MIDI
+        Pitch Bend
+    Genre-specific stuff
+        Drone music
+        Minimal music
+        Techno
+        House
+        Acid
+        Trance
+        Chiptune
+    Sound Design
+        Layering synths
+    Rhythm related topics
+        Drum machine
+    Live Coding
+        syncronise threads
