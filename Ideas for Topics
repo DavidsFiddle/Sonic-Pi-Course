@@ -1,11 +1,51 @@
 This is for the 'final' topics in the course.
+Not in order.
 
 
-
-n. Rings & Lists
-    Create rings
+n. Rings & Lists(data structures?):
     Ring operators
+    Maps, Rings, Lists
 
-n. Coding/Musical Approach:
+n. Learning Sonic Pi:
+    Coding/Musical/Pedagogical Approach
     What can I do with code? vs. How can I code what I want to hear?
 
+n. Synths:
+    Different synths
+    Synth parameters
+    Synth control
+    Synth choice
+    Sound design
+
+n. Effects:
+    Different FX
+    FX parameters
+    FX control
+
+n. Samples:
+    Play samples
+    Splitting, Envelopes
+    Loop Samples
+
+n. Code structure:
+    Loops: live_loop, for, at, while
+    Threads
+    Sync threads & communication
+
+n. Rhythm:
+    Drum patterns
+    Polyrhythm
+    Randomisation: Generated Drums / 'Drum Fills'
+
+n. Melodies:
+    Notation to code
+    Generative melodys
+    Basslines
+
+n. Harmony:
+    Chords & chord progressions
+    Generative harmony
+
+n. MIDI:
+    Play synths/samples via midi
+    Control external devices via midi
